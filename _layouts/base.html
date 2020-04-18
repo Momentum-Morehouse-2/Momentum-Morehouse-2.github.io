@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+  {% feed_meta %}
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/assets/css/momentum.css" | relative_url }}">
+</head>
+<body class="plex-sans">
+  <div class="mw8 center pv3">
+    <header>
+      <a class="db flex items-end no-underline" href="{{ '/' | relative_url }}">
+        <img class="h2 db" src="{{ '/assets/img/logo.png' | relative_url }}" alt="Momentum logo"> 
+        <div class="db b pl2 momentum-blue f3">Team 1 Classroom</div> 
+      </a>
+    </header>
+  {{ content }}
+  </div>
+</body>
+</html>

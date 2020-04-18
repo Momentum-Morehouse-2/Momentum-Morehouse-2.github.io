@@ -1,0 +1,28 @@
+---
+layout: base
+---
+
+<article class="post">    
+  <h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
+
+  <p>
+    Posted on {{ page.date | date_to_string: "ordinal", "US" }}
+  </p>
+
+  <div>      
+    {{ page.content }}      
+  </div>
+
+  {% if page.tags.size > 0 %}
+  <div class="blog-tags">
+    Tags:
+    {% for tag in page.tags %}
+    <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+</article>
+
+<p>
+  <a class="db" href="{{ '/' | relative_url }}">Back to home</a>
+</p>

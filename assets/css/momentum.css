@@ -1,0 +1,9 @@
+@import "tachyons.min.css";
+
+.plex-sans {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+.momentum-blue {
+  color: #1E116C;
+}
