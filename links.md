@@ -1,5 +1,6 @@
 ---
 title: Very Important Links
+permalink: links/
 ---
 
 # Very important links
