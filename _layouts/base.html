@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/momentum.css' | relative_url }}">
 </head>
 <body class="plex-sans">
-  <div class="mw8 center pv3">
+  <div class="mw8 center ph3 pv4">
     <header class="pb3 bb bw2 b--momentum-blue">
       <a class="db flex items-end no-underline" href="{{ '/' | relative_url }}">
         <img class="h2 db" src="{{ '/assets/img/logo.png' | relative_url }}" alt="Momentum logo"> 
@@ -28,7 +28,12 @@
         </ul>
       </nav>
     </header>
-  {{ content }}
+    <main class="pt3 pb5 main">
+      {{ content }}
+    </main>
+    <footer class="pt3 bt bw1 b--momentum-blue">
+      &copy; 2020 Momentum Learning
+    </footer>
   </div>
 </body>
 </html>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div>
+<section class="blog">
   {% for post in paginator.posts %}
   <article class="post">    
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
@@ -25,19 +25,21 @@ layout: default
     {% endif %}
   </article>
   {% endfor %}
-</div>
+</section>
 
 {% if paginator.total_pages > 1 %}
-<ul>
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
+<section class="pagination">
+  <ul>
+    {% if paginator.previous_page %}
+    <li class="previous">
+      <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+      <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+  </ul>
+</section>
 {% endif %}

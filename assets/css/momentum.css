@@ -16,4 +16,7 @@
   border-color: var(--momentum-blue);
 }
 
-
+.main h1, .main h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
