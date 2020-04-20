@@ -21,7 +21,7 @@
           <li class="pr3"><a class="link underline-hover" href="{{ '/' | relative_url }}">Home</a></li>        
           <li class="pr3"><a class="link underline-hover" href="{{ '/links/' | relative_url }}">Important links</a></li>
           <li class="pr3">
-            <a class="link underline-hover" href="https://feedrabbit.com/subscriptions/new?url={{ site.siteurl | url_encode }}">
+            <a class="link underline-hover" href="https://feedrabbit.com/subscriptions/new?url={{ site.url | url_encode }}">
               <i class="far fa-envelope-open"></i> Subscribe via email
             </a>
           </li>
@@ -32,7 +32,8 @@
       {{ content }}
     </main>
     <footer class="pt3 bt bw1 b--momentum-blue">
-      &copy; 2020 Momentum Learning
+      <p>&copy; 2020 <a href="https://www.momentumlearn.com/">Momentum Learning</a></p>
+      <p><a href="{{ site.repo_url }}">View the source on <i class="fab fa-github"></i> GitHub</a></p>
     </footer>
   </div>
 </body>
