@@ -6,7 +6,8 @@
   <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
   {% feed_meta %}
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ "/assets/css/momentum.css" | relative_url }}">
+  <script src="https://kit.fontawesome.com/e6f4c5be1d.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="{{ '/assets/css/momentum.css' | relative_url }}">
 </head>
 <body class="plex-sans">
   <div class="mw8 center pv3">
@@ -19,6 +20,11 @@
         <ul class="list pl0 pt2 ma0 flex">
           <li class="pr2"><a href="{{ '/' | relative_url }}">Home</a></li>        
           <li class="pr2"><a href="{{ '/links/' | relative_url }}">Important links</a></li>
+          <li class="pr2">
+            <a href="https://feedrabbit.com/subscriptions/new?url={{ site.siteurl | url_encode }}">
+              <i class="far fa-envelope-open"></i> Subscribe via email
+            </a>
+          </li>
         </ul>
       </nav>
     </header>
