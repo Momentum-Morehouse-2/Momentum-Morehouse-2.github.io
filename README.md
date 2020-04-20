@@ -4,6 +4,20 @@ You can use the [editor on GitHub](https://github.com/momentum-team-1/momentum-t
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### About posts
+
+All posts should be composed under the `_posts` folder with the naming convention `YYYY-MM-DD-post-title.md`. Replace all parts of the filename with the appropriate date for your post.
+
+All posts should have [front matter](https://jekyllrb.com/docs/front-matter/). This front matter should contain a `title` and `tags`, with tags including the phase and the topics of the day. It should also contain a `layout` of `post`. A sample front matter:
+
+```
+---
+layout: post
+title: Welcome to your first day of class
+tags: phase-1 command-line git
+---
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
