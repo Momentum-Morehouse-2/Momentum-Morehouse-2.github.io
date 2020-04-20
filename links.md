@@ -1,6 +1,6 @@
 ---
 title: Very Important Links
-permalink: links/
+permalink: /links/
 ---
 
 # Very important links
