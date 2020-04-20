@@ -44,3 +44,5 @@ Once running, complete the tasks in Git-it. Completion of the assignment is the 
 * [Team One Group Agreement](https://docs.google.com/document/d/1dBb-LePiuM2rV7SJJB42f7W9wdv86ic5uq2Rjsu_mP8/edit?usp=sharing)
 * [Really friendly command-line intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb)
 * [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n)
+* [Git Cheat Sheet PDF](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+* [class slides PDF](../slide-decks/git-slides.pdf)
