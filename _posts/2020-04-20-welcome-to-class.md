@@ -46,3 +46,4 @@ Once running, complete the tasks in Git-it. Completion of the assignment is the 
 * [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n)
 * [Git Cheat Sheet PDF](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 * [class slides PDF](../slide-decks/git-slides.pdf)
+* [afternoon class recording](https://zoom.us/rec/share/69BpbJKh6kRIXqfqymzwapQtDo24eaa80Sgd-qdfy09kau4RAHyp6skdTNsxT430), Access Password: 4i$iE@?#
