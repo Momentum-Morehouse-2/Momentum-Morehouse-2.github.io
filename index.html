@@ -4,17 +4,17 @@ layout: default
 
 <section class="blog">
   {% for post in paginator.posts %}
-  <article class="post">    
+  <article class="post mb5">
     <h2><a class="link underline-hover" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-  
+
     <p>
       Posted on {{ post.date | date_to_string: "ordinal", "US" }}
     </p>
-  
-    <div>      
-      {{ post.content }}      
+
+    <div>
+      {{ post.content }}
     </div>
-  
+
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
       Tags:
