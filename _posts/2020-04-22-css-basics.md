@@ -27,4 +27,5 @@ tags: phase-1 css
 
 ### Example code from class
 
+- [garden store example with css](https://github.com/momentum-team-1/examples/tree/master/garden-store-css)
 - [class slides PDF](../slide-decks/css-basics.pdf)
