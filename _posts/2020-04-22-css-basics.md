@@ -21,9 +21,10 @@ tags: phase-1 css
 
 - [MDN CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [CSS-Tricks Getting Started with HTML & CSS](https://css-tricks.com/guides/beginner/)
--[Rachel Andrew: How to Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+- [Rachel Andrew: How to Learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
 - [CSS Diner](https://flukeout.github.io/)
+- [MDN CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 
 ### Example code from class
 
-- [class slides PDF]()
+- [class slides PDF](../slide-decks/css-basics.pdf)
