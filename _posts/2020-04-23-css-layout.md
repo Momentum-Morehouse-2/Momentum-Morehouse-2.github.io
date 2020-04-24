@@ -10,6 +10,11 @@ tags: phase-1 css layout responsive flexbox
 - Responsive web design, media queries, and breakpoints
 - Basic web design principles
 
+### Project
+#### Build a professional portfolio site
+
+[Link to the assignment invitation](https://classroom.github.com/a/vTXzOy1b)
+
 ### Links and resources
 
 - [CSS-Tricks A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
