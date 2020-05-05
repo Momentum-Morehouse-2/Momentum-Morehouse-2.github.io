@@ -35,3 +35,4 @@ There's a an awesome article about _stacks_, which we encounter in a _stack trac
 ### Code, slides, and video from class
 
 - [class slides PDF](../slide-decks/js-debugging.pdf)
+- [Debugging the number guessing game](https://github.com/momentum-team-1/examples/tree/master/debugging-practice) - You can look at the recent commits here to see the fixes we put in. There is still a logic error in the game, if you want to see if you can find it!
