@@ -36,3 +36,5 @@ There's a an awesome article about _stacks_, which we encounter in a _stack trac
 
 - [class slides PDF](../slide-decks/js-debugging.pdf)
 - [Debugging the number guessing game](https://github.com/momentum-team-1/examples/tree/master/debugging-practice) - You can look at the recent commits here to see the fixes we put in. There is still a logic error in the game, if you want to see if you can find it!
+- [morning class video](https://us02web.zoom.us/rec/share/yo9fL7H_12xObaedtkrlZ_MgR4_OX6a81SMf__BczkoKeMRqu5w3Dsr07HDPEzrE) Access Password: 8N&*+o4&
+- [afternoon class video](https://us02web.zoom.us/rec/share/75VTdKD_02VLGaf29VzFa7EMFdjiaaa8gCcarKEPzEhtOEnxef2CJsGUgHsStmZJ) Access Password: 5h$dcz9#
