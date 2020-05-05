@@ -17,7 +17,10 @@ tags: phase-1 javascript js objects
 ### Links and resources
 
 - [Eloquent JavaScript, chapter 4: Objects and Arrays](https://eloquentjavascript.net/04_data.html)
+- [Podcast on learning to code with the founder of Code Newbie, Saron Yitbarek]()
 
 ### Code, slides, and video from class
 
 - [class slides PDF](../slide-decks/js-objects.pdf)
+- [Repl.it for functions/arguments](https://repl.it/repls/TemporalAjarRar)
+- [Repl.it for working with an object](https://repl.it/repls/EverlastingBrilliantKnowledge)
