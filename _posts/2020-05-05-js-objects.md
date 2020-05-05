@@ -24,3 +24,4 @@ tags: phase-1 javascript js objects
 - [class slides PDF](../slide-decks/js-objects.pdf)
 - [Repl.it for functions/arguments](https://repl.it/repls/TemporalAjarRar)
 - [Repl.it for working with an object](https://repl.it/repls/EverlastingBrilliantKnowledge)
+- [Demo using object data for menu items](https://github.com/momentum-team-1/examples/tree/master/using-object-data)
