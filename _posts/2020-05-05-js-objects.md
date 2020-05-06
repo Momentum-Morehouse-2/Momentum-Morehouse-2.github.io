@@ -25,3 +25,4 @@ tags: phase-1 javascript js objects
 - [Repl.it for functions/arguments](https://repl.it/repls/TemporalAjarRar)
 - [Repl.it for working with an object](https://repl.it/repls/EverlastingBrilliantKnowledge)
 - [Demo using object data for menu items](https://github.com/momentum-team-1/examples/tree/master/using-object-data)
+- [afternoon class video](https://us02web.zoom.us/rec/share/osVldOjMyjNOTbeStk6BB_Z5LJ7Aaaa8hiAZqfoInRlj9w53ot0Qsc4u-ZPf4jVI) Access Password: 6K!654dN
