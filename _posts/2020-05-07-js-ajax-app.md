@@ -34,3 +34,4 @@ For more information about how the internet works and the mechanics of a request
 ### Code, slides, and video from class
 
 - [class slides PDF](../slide-decks/js-ajax.pdf)
+- [todo app demo code](https://github.com/momentum-team-1/examples/tree/master/ajax--notes)
