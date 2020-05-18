@@ -4,11 +4,21 @@ layout: default
 
 <h1 class="pb3">Posts by tag</h1>
 
+{% assign tags = '' | split: '' %}
+
 {% for tag in site.tags %}
-<div class="pb3" id="tag-{{ tag[0] }}">
-  <h2>{{ tag[0] }}</h2>
+    {% assign tagName = tag | first | split: ' ' %}
+    {% assign tags = tags | concat: tagName %}
+{% endfor %}
+
+{% assign tags = tags | sort %}
+
+{% for tag_name in tags %}
+{% assign posts = site.tags[tag_name] %}
+<div class="pb3" id="tag-{{ tag_name }}">
+  <h2>{{ tag_name }}</h2>
   <ul>
-    {% for post in tag[1] %}
+    {% for post in posts %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_string: "ordinal", "US" }}</li>
     {% endfor %}
   </ul>
