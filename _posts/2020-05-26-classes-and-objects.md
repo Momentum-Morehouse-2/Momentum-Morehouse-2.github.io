@@ -11,6 +11,12 @@ Today, we'll take a survey of object-oriented programming to get us ready to tak
 - Object-oriented programming
 - Classes and objects
 
+### Project review questions
+
+- What's something I learned in doing this project?
+- What's something I want to understand better/know more about after doing this project?
+- What was my biggest accomplishment doing this project?
+
 ### Project
 
 [Return of the Word Freqs](https://classroom.github.com/a/cV4lGjn2)
