@@ -21,6 +21,11 @@ Today, we'll take a survey of object-oriented programming to get us ready to tak
 
 [Return of the Word Freqs](https://classroom.github.com/a/cV4lGjn2)
 
+### Videos
+
+* [AM video](https://us02web.zoom.us/rec/share/xJBWHoz1-mBIboGd4Xr2Q5ArBtu5aaa81XdN_PYIyyCdAiQmGTqPJ2q-BdQlZ70) Password: 9p@4my*?
+* [PM video](https://us02web.zoom.us/rec/share/wMpOJJL85EFJR6fNt3uAdbEYJLWmX6a80XVIrvAInjjY_sIafTuwjEddBA_oqaA) Password: 0L#@1!&y
+
 ### Resources
 
 - [Real Python - Object-Oriented Programming in Python 3](https://realpython.com/python3-object-oriented-programming/)
