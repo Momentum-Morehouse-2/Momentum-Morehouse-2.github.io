@@ -21,3 +21,5 @@ The current plan is:
 
 * [Momentum Django project template](https://github.com/momentumlearn/django-project-template)
 * [django-registration-redux](https://django-registration-redux.readthedocs.io/en/latest/index.html)
+* [Python dependency management overview](https://modelpredict.com/python-dependency-management-tools) - good read to understand pip and poetry better
+* [Original project README for tonight](https://github.com/momentum-assignments/django--large-solo-project) - if you need to review project requirements
