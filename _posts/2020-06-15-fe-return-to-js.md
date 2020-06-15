@@ -19,9 +19,13 @@ You also should sign up for [Open JS World](https://events.linuxfoundation.org/o
 
 ## Assignments
 
-- Watch ES6 tutorial for beginners - https://www.youtube.com/watch?v=WZQc7RUAg18
+- Watch [ES6 tutorial for beginners](https://www.youtube.com/watch?v=WZQc7RUAg18)
 - Practice JavaScript with Exercism:
     - Hamming
     - Gigasecond
     - Grade School
     - Scrabble Score
+
+## Resources
+
+- [JavaScript equality table](https://dorey.github.io/JavaScript-Equality-Table/)
