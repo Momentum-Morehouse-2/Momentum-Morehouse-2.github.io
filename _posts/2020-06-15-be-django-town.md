@@ -11,3 +11,7 @@ Today, we'll be talking about deploying our Django apps to [Heroku](https://www.
 ## Assignments
 
 Your project for the week will be [Question Box](https://classroom.github.com/a/CrPyVt7o). Today, you'll start by getting this deployed to Heroku first thing.
+
+## Resources
+
+- [Deploying to Heroku from a branch besides master](https://devcenter.heroku.com/articles/git#deploying-from-a-branch-besides-master)
