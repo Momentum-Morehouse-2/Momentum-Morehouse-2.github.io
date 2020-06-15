@@ -15,3 +15,4 @@ Your project for the week will be [Question Box](https://classroom.github.com/a/
 ## Resources
 
 - [Deploying to Heroku from a branch besides master](https://devcenter.heroku.com/articles/git#deploying-from-a-branch-besides-master)
+- [Python Poetry buildpack](https://github.com/moneymeets/python-poetry-buildpack)
