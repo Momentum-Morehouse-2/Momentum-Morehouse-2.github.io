@@ -12,6 +12,7 @@ By Thursday, you should have much of Question Box done. Your models should be co
 
 ## Resources
 
+- [New repo for Recipe Book project](https://github.com/momentum-team-1/example--django-recipes/)
 - [Django model relationships](https://docs.djangoproject.com/en/3.0/topics/db/models/#relationships)
 - [Django model queries](https://docs.djangoproject.com/en/3.0/topics/db/queries/)
 - [Video: Building effective Django queries with expressions](https://www.youtube.com/watch?v=a-sfr6y_hY8&list=PL2NFhrDSOxgXXUMIGOs8lNe2B-f4pXOX-&index=9) - DjangoCon 2019 video on queries
