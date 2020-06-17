@@ -12,6 +12,10 @@ Today, we'll start on our journey into React.
 
 This project does not have to be in Git.
 
+## Video
+
+https://us02web.zoom.us/rec/share/w91qF7v5-39IYLeR5mb5VukCAN7Paaa81iger6dZmRuBn6mEncj3_plx7mU4kJoU Password: 2W=05+6F
+
 ## Resources
 
 - [React docs](https://reactjs.org/docs/getting-started.html)

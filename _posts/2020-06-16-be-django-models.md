@@ -10,6 +10,10 @@ Today we'll be focusing on making sure we understand all the capabilities of Dja
 
 By Thursday, you should have much of Question Box done. Your models should be complete, as should be views for viewing questions, creating questions, creating answers, and the user profile.
 
+## Video
+
+https://us02web.zoom.us/rec/share/18VsK4PV7ltLUp335Gr2HYMzFNXhT6a823BL_qEPxU3y2G-k0GkpS8PvPelcDL4S Password: 0f&73mQ@
+
 ## Resources
 
 - [New repo for Recipe Book project](https://github.com/momentum-team-1/example--django-recipes/)
