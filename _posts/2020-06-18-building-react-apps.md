@@ -1,0 +1,15 @@
+---
+layout: post
+title: FE - Building React Apps
+tags: phase-3 phase-3-fe react
+---
+
+Today, you'll start on your first React app without a tutorial.
+
+## Assignment
+
+[React Freeshelf](https://classroom.github.com/a/MHNvHk01)
+
+## Resources
+
+- [React docs](https://reactjs.org/docs/getting-started.html)
