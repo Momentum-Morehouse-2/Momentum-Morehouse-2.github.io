@@ -10,6 +10,10 @@ Today, you'll start on your first React app without a tutorial.
 
 [React Freeshelf](https://classroom.github.com/a/MHNvHk01)
 
+## Examples
+
+- [Sample todo list from class](https://github.com/momentum-team-1/example--react-todo)
+
 ## Resources
 
 - [React docs](https://reactjs.org/docs/getting-started.html)
