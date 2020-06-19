@@ -9,3 +9,7 @@ Today, we need to talk about [full-text search](https://docs.djangoproject.com/e
 ## Project
 
 This weekend, you need to finish up Question Box. Next week we'll start a new project building a REST API in Django. We'll talk during class about whether you all would rather add the API to Question Box or start a whole new project.
+
+## Video
+
+https://us02web.zoom.us/rec/share/_8BZCorL6lpJQafvzm3_RL4AF4Pkaaa8gHUZ_acJnxpucfdoVFtKs3HZKENfQmaQ Password: 5c@3Y\$3?
