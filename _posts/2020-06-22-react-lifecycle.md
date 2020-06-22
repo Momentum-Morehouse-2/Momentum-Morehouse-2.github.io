@@ -10,6 +10,10 @@ Today we're going to learn all about the React lifecycle and how you can use it 
 
 [React Trivia Game](https://classroom.github.com/a/iQCme5Su) -- this is due on Thursday.
 
+## Video
+
+- [Video](https://us02web.zoom.us/rec/share/opF7I-3a-1NOQaPy-VqCA5YgN5W-X6a80Cce-foIzUtPvj-LfwUqXLON3216YodP) Password: 6W+Pt3y\*
+
 ## Resources
 
 - [State and Lifecycle from the React docs](https://reactjs.org/docs/state-and-lifecycle.html)
