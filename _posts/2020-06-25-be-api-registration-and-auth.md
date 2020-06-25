@@ -10,6 +10,10 @@ Today we're going to look at registration through a REST API as well as other me
 
 - [Booklist API](https://classroom.github.com/a/KiqHnE_x)
 
+## Video
+
+[Video](https://us02web.zoom.us/rec/share/2Y9_Io7SqyBOGbPp7038VpUkFYX8T6a8gCJM86AOyByVYTVLHZEbsLAC6A-NGOps) Password: 2b\*\*&o\$5
+
 ## Resources
 
 - [djoser](https://djoser.readthedocs.io/en/latest/index.html)
