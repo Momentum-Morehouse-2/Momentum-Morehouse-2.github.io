@@ -12,6 +12,9 @@ tags: phase-3 phase-3-fe phase-3-be
 ## Resources
 
 - [10 Debugging Tips for Beginners](https://blog.hartleybrody.com/debugging-code-beginner/). Read this thoroughly.
+- [Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hY14Er6JX2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Debugging tips
 
