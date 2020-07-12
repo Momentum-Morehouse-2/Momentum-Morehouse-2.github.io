@@ -1,10 +1,13 @@
 ---
-title: Very Important Links
+title: Important Links
 permalink: /links/
 ---
 
-# Very important links
+# Important links
 
-* [Zoom classroom](https://zoom.us/j/580193256?pwd=L28zUENjcUJ3dTJ3VFhvc0IzWitvQT09)
+* [Zoom classroom for Phase 4](https://us02web.zoom.us/j/87136809846?pwd=VER0ejNkaWFUQURjQ0xRVTVVYlkrUT09)
+    - Meeting ID: 871 3680 9846
+    - Password: 888297
+
 * [Zoom co-working room](https://zoom.us/j/705824048)
 * [Class GitHub organization](https://github.com/momentum-team-1)
