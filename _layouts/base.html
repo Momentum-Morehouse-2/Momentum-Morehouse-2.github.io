@@ -1,24 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
   {% feed_meta %}
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   <script src="https://kit.fontawesome.com/e6f4c5be1d.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="{{ '/assets/css/momentum.css' | relative_url }}">
 </head>
-<body class="plex-sans">
+
+<body class="roboto">
   <div class="mw8 center ph3 pv4">
-    <header class="pb3 bb bw2 b--momentum-blue">
+    <header class="pb3 bb bw2 b--brand-red">
       <a class="db flex items-end no-underline" href="{{ '/' | relative_url }}">
-        <img class="h2 db" src="{{ '/assets/img/logo.png' | relative_url }}" alt="Momentum logo"> 
-        <div class="db b pl2 momentum-blue f3">Team 1 Classroom</div> 
+        <img class="h2 db pb1" src="{{ '/assets/img/logo.png' | relative_url }}" alt="Momentum logo">
+        <div class="db b pl3 brand-blue f3">Team 1 Classroom</div>
       </a>
       <nav>
         <ul class="list pl0 pt2 ma0 flex">
-          <li class="pr3"><a class="link underline-hover" href="{{ '/' | relative_url }}">Home</a></li>        
+          <li class="pr3"><a class="link underline-hover" href="{{ '/' | relative_url }}">Home</a></li>
           <li class="pr3"><a class="link underline-hover" href="{{ '/links/' | relative_url }}">Important links</a></li>
           <li class="pr3">
             <a class="link underline-hover" href="https://feedrabbit.com/subscriptions/new?url={{ site.url | url_encode }}">
@@ -31,11 +33,12 @@
     <main class="pt3 pb5 main">
       {{ content }}
     </main>
-    <footer class="pt3 bt bw1 b--momentum-blue">
+    <footer class="pt3 bt bw1 b--brand-blue">
       <p>&copy; 2020 <a href="https://www.momentumlearn.com/">Momentum Learning</a></p>
       <p><a href="{{ site.repo_url }}">View the source on <i class="fab fa-github"></i> GitHub</a></p>
       <p class="f7">Generated at {{ site.time }}</p>
     </footer>
   </div>
 </body>
+
 </html>
