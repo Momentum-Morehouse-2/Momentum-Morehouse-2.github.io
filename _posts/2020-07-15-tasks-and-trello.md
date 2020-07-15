@@ -18,7 +18,7 @@ Dawn has created a Trello board for each team, with columns predefined to start 
 
 ## Slides
 
-- [Creating Tasks]({% link slide-decks/all-about-tasks-slides.md %})
+- [Creating Tasks]({% link slide-decks/all-about-tasks-slides.pdf %})
 
 ### Resources
 

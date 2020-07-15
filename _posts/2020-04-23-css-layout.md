@@ -30,5 +30,5 @@ tags: phase-1 css layout responsive flexbox
 
 ### Code, slides, and video from class
 
-- [class slides PDF](/slide-decks/css-layout.pdf)
+- [class slides PDF](https://drive.google.com/file/d/1TgJ9sYA4eGDRH3F4pW66Ky_pSr-GG_pK/view?usp=sharing)
 - [flexbox demo code](https://github.com/momentum-team-1/examples/tree/master/css-flexbox)
