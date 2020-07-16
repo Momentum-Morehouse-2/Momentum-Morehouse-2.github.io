@@ -17,4 +17,4 @@ tags: phase-4 agile git collaboration
 
 ### Slides
 
-- [Git Collaboration Slides](https://slides.com/amy_nc/git-collaboration-week5)
+- [Git Collaboration Slides](https://slides.com/amy_nc/git-collaboration)
