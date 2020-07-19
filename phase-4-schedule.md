@@ -21,7 +21,7 @@ permalink: /phase-4-schedule/
   - Time for your team listed below
 - **All-team check-in for peer feedback** Fri July 31 @10:30 am
 
-### Team Abodo (Sarah, Alyshia, Ben)
+### Team Obodo (Sarah, Alyshia, Ben)
 
 - morning standup @9:30
 - late-day standup -- set your own schedule
@@ -43,6 +43,7 @@ permalink: /phase-4-schedule/
 - Regular check-in time at 2:00 every Monday and Weds (starting Weds, July 22)
 
 ## Week 4 (_August 3-7_): DEMO WEEK!
+
 ### _*Zoom link for Demos TBD_
 
 - _Feature Freeze_ Mon Aug 3 @EOD
@@ -52,7 +53,7 @@ permalink: /phase-4-schedule/
   - Time to stop writing code and focus completely on your presentation
 - **All-team rehearsal** Weds Aug 5 @3:00 pm
 - **Final rehearsal with staff** Thursday Aug 6
-  - Team Abodo @10:00 am
+  - Team Obodo @10:00 am
   - Team Topical @10:30 am
   - Team Hddl @11:00 am
 - **All-team tech check & run-through**
