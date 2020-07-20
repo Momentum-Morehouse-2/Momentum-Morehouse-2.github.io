@@ -18,3 +18,8 @@ tags: phase-4 agile git collaboration
 ### Slides
 
 - [Git Collaboration Slides](https://slides.com/amy_nc/git-collaboration)
+
+### Videos
+
+- [Morning](https://us02web.zoom.us/rec/share/vZF3Baj9qEJOS4GRzR36BbQKQKH4T6a80yUb8vIJmEbVz-h-UFB1XXuwz2jKvrze) Access Password: 5g?.3.42
+- [Afternoon](https://us02web.zoom.us/rec/share/zOd0PrLJ8GxJUq_8tmuFfKJ7Q4L9T6a8gHAX-PBezB01TUV0BK3nOQQXf5BVwxk4) Access Password: 6I=1!u!%
