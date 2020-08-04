@@ -6,6 +6,10 @@ _Each person on your team should be prepared to answer questions_. Decide ahead 
 
 ## Example Presentation
 
+The following recording shows a student presentation from the last demo day we held in April. *Please note that this includes a video with sound, which is NOT what you are doing!*
+
+It's useful because this team did a great job of telling their story, and the Q&A section is included for you to get a sense of what that might be like.
+
 [Zoom recording of Cohort 7 Presentation: FloorPlan](https://us02web.zoom.us/rec/share/6MJbDfbcrnFIW53ssWXUf4d5Jdy-eaa80CEbr6YNn0up2tvDplCR98P04IbcqLv1)
 Access Password: m2^HI+#8
 
@@ -19,6 +23,16 @@ This is your public debut as a technologist. Show your confidence, enthusiasm, a
 2. Why did you build this? What is the central problem you are solving?
 3. Each developer talks about some feature of the app that they worked on.
 4. Conclusion -- up to you how to conclude; see the topics list below for suggestions
+
+### Screencast
+
+Record a 5-minute screencast that demos your app's features. You and your team will talk while the screencast is playing. Students in the past have found QuickTime easy to use, but you can use whatever tool you prefer.
+
+Google Drive folders where you'll place your descriptions and final demo videos by 2pm Thursday:
+
+- [Topical Google Drive link]()
+- [Odobo Google Drive link](https://drive.google.com/drive/folders/1xeSIE3eTdD4pfcHw1dRih2j47LV_gch9?usp=sharing)
+- [Crop Circle Google Drive link](https://drive.google.com/drive/folders/1FhSJlsrX1gi2-WHzVQQyurJRK53T9IsZ?usp=sharing)
 
 ### Topics to include
 
