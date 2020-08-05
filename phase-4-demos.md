@@ -10,8 +10,12 @@ The following recording shows a student presentation from the last demo day we h
 
 It's useful because this team did a great job of telling their story, and the Q&A section is included for you to get a sense of what that might be like.
 
-[Zoom recording of Cohort 7 Presentation: FloorPlan](https://us02web.zoom.us/rec/share/6MJbDfbcrnFIW53ssWXUf4d5Jdy-eaa80CEbr6YNn0up2tvDplCR98P04IbcqLv1)
+[Zoom recording of Cohort 7 Presentation with Q&A: FloorPlan](https://us02web.zoom.us/rec/share/6MJbDfbcrnFIW53ssWXUf4d5Jdy-eaa80CEbr6YNn0up2tvDplCR98P04IbcqLv1)
 Access Password: m2^HI+#8
+
+Here's an example from Cohort 2 in a different format. This was a live, in-person presentation with an accompanying video. No Q&A.
+
+[Video of Cohort 2 Presentation](https://www.youtube.com/watch?v=Cbo1lP6w-YE)
 
 ## Tell the story of your app and your team
 
