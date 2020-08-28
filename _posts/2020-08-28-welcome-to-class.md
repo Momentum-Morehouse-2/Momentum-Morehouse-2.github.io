@@ -10,8 +10,8 @@ tags: front-end
 - Group Agreement
 - Developer tools
   - Setting up your computer
-    - VS Code
-    - Git Bash
+    - [Mac instructions](https://docs.google.com/document/d/1ibV4dA4ciQsxn9MT7TV4-e_KgzUQwCQ7O1zEVfxy_28)
+    - [Windows instructions](https://docs.google.com/document/d/1OMtagvx9622O1tPf_ICdXXwUHyWwUShd9hgj1LeiFZg/edit?usp=sharing)
     - Internet Speed Test
   - How to approach code 
 
