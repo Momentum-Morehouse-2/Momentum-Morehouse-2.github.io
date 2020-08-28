@@ -22,7 +22,7 @@ The objective is to figure out how we approach code, not necessarily to complete
 - Read this Java code sample and discuss what you think it does
 - Record any strategies that you use to try to figure it out
 
-{% highlight java %}
+{% highlight java linenos %}
 import java.util.Scanner;
 class JavaExample
 {
@@ -61,9 +61,9 @@ class JavaExample
 
 ### TODO
 
-1. Read the student guidelines and how we work remotely docs in their entirety.
+1. Read the how we work remotely doc.
 2. Make sure your computer is all set up and ready to go.
-3. Read the Really Friendly Command Line intro.
+3. Complete the pre-work assignments.
 
 ### Links from class
 
