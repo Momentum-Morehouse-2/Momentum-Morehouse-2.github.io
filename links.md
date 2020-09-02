@@ -5,9 +5,9 @@ permalink: /links/
 
 # Important links
 * [Zoom Classroom](https://us02web.zoom.us/j/86959899344?pwd=bUlMczQ4WFkvZm5uam4vTFo2djdEdz09)
-* [Zoom co-working room](https://us02web.zoom.us/j/87916737884?pwd=VkhhU0EvVHZRUjhRaUc2aHd2bHk3Zz09)
-* [Class GitHub organization](https://github.com/Momentum-Morehouse-2)
-* [Class Website]()
+* [Lunch & Learn](https://us02web.zoom.us/j/87916737884?pwd=VkhhU0EvVHZRUjhRaUc2aHd2bHk3Zz09)
+* [Class GitHub organization](https://github.com/momentum-morehouse)
+* [Class Website](https://momentum-morehouse-2.github.io/)
 
 <!-- ## Phase 4 and Demos
 
