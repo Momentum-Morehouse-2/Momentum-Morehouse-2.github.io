@@ -13,9 +13,10 @@ tags: phase-1 css
 - Units of measurement
 
 ### Project
-#### Build a Dog Adoption website
+#### Build a Personal Portfolio Due Friday 
 
-[Link to the assignment invitation](https://classroom.github.com/a/N-Puj6WS)
+[Link to the assignment](https://classroom.google.com/c/MTQzODg3MTY4MzI3/a/MTQ0MTQ2MTg5NDI5/details)
+
 
 ### Links and resources
 
