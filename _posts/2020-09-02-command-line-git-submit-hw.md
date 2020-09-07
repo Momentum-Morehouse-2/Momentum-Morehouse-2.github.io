@@ -34,4 +34,4 @@ Copy the url for your assignment on GitHub.
 - [A short history of the web](https://docs.google.com/document/d/17lCHxlyLCVi8glSnkfwlIbs4oCLHEQTAIWEBxXOI1ko/edit)
 - [Asking technical questions: Your Brain's API](https://www.youtube.com/watch?v=hY14Er6JX2s)
 - [class slides PDF](https://drive.google.com/file/d/1bdE3zJk096xGwDoS9JoU4NygLa6nk0w6/view?usp=sharing)
-- [class video recording]() 
+- [class video recording](https://us02web.zoom.us/rec/share/fl6z9CqyXMpNUJycNViGQ-6R5QN_xa2xXe2qulkPCmF3apxFB73Scui4kVWYMo-x.2VwGcWaF506Y_olP) Passcode: xuiDE5p*  

@@ -33,5 +33,7 @@ tags: phase-1 css
 
 - [garden store example with css](https://github.com/momentum-team-1/examples/tree/master/garden-store-css)
 - [class slides PDF](https://drive.google.com/file/d/181M-H5gl7mTGK_a7ZoBwiqX4F1ZQzWAV/view?usp=sharing)
-- [Morning class recording]
+- [Morning class recording](
+https://us02web.zoom.us/rec/share/F4rCIgmtOhBwr-VolpCm-BER-eUS4wNEMh3pW60G_PdgDlVE5xhrcXm8b_A_UAmg.Ly4BkJcI72mxzzZo)
+Access Passcode: cx7XD3^5
 
