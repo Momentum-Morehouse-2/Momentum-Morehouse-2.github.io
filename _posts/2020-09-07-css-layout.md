@@ -13,7 +13,7 @@ tags: phase-1 css layout responsive flexbox
 ### Project
 #### Build a professional portfolio site
 
-[Link to the assignment invitation](https://classroom.github.com/a/ff3hojZL)
+[Link to the assignment invitation](https://classroom.google.com/c/MTQzODg3MTY4MzI3/a/MTQwNzUxMDY4MTE2/details)
 
 ### Links and resources
 
