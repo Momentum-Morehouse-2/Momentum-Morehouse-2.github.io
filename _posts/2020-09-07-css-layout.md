@@ -11,7 +11,7 @@ tags: phase-1 css layout responsive flexbox
 - Basic web design principles
 
 ### Project
-#### Build a professional portfolio site
+#### Build a Dog Adoption Website
 
 [Link to the assignment invitation](https://classroom.google.com/c/MTQzODg3MTY4MzI3/a/MTQwNzUxMDY4MTE2/details)
 
@@ -32,3 +32,4 @@ tags: phase-1 css layout responsive flexbox
 
 - [class slides PDF](https://drive.google.com/file/d/1TgJ9sYA4eGDRH3F4pW66Ky_pSr-GG_pK/view?usp=sharing)
 - [flexbox demo code](https://github.com/momentum-team-1/examples/tree/master/css-flexbox)
+- [class recording](https://us02web.zoom.us/rec/share/fwaZBvgyza8x1-MdI0dQwlIlm-v-luPZiKzOTxTbI5O1CRdwD1cXt9NVTk18nzbD.XBnQG6oT4PoIpQJE) Passcode: z3.tmX8A 
