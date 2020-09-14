@@ -6,14 +6,13 @@ tags: phase-1 javascript js arrays
 
 ## Today's topics
 
-- Using arrays
-- Iteration: using loops with arrays
-- Transforming arrays with map, reduce, and filter
+- More practice with JS functions
+
 
 ### Project
-#### JavaScript Problem Set 2
+#### JavaScript Problem Set 3
 
-[Link to the assignment invitation](https://classroom.google.com/c/MTQzODg3MTY4MzI3/a/MTYwMTI5MTUyNjM2/details)
+[Link to the assignment invitation](https://classroom.google.com/c/MTQzODg3MTY4MzI3/a/MTY0MTY3NzUwMjg3/details)
 
 
 ### Links and resources
