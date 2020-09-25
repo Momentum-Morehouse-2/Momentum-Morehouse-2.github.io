@@ -33,5 +33,6 @@ tags: phase-1 javascript js forms validation
 
 - [class slides PDF](https://drive.google.com/file/d/1tstOD4m0YChZpq2MAEJ4VVlnuwUG-WZR/view?usp=sharing)
 - [Forms demo code](https://github.com/momentum-team-1/examples/tree/master/forms-are-fine)
-- [class video](https://us02web.zoom.us/rec/share/GPfUDce5RplhIk0rTYMCo0qH-wFIHO7uAWZVQaHQZoM-9ey8yWn3VgdQm7NJ5JM0.XhONhTJJAnIS2spa)
-Access Passcode: T@2jzR?G
+- [class video](/rec/share/DknDy8Gi7OOMbQqpx--w3mMYbSBgaXeH4EdPUA80CksCZTqcyz7OD6paYPvOjhmT.cojrXgDDtC5FpW07)
+
+Access Passcode: SFtL!r5M
