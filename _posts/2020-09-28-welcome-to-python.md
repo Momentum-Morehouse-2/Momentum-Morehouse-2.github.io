@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Phase 2!
+title: Welcome to Python & Django!
 tags: phase-2 python
 ---
 
@@ -24,7 +24,7 @@ Welcome to Phase 2, where we'll be learning about:
 
 ### Project
 
-[House hunting with Python](https://classroom.github.com/a/6nNnQSpP)
+[House hunting with Python](https://classroom.google.com/c/MTQzODg3MTY4MzI3/a/MTc1NTI0OTIxNDkx/details)
 
 Some people will rip through this; for others, it will take quite a while. If you finish the easy mode early, please keep going and do the hard mode.
 
