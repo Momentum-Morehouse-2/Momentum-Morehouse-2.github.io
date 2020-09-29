@@ -21,6 +21,7 @@ Welcome to Phase 2, where we'll be learning about:
   - `while` loops
   - Input and output with `input` and `print`
   - Functions
+- Breaking down a task to set up for writing code
 
 ### Project
 
@@ -31,6 +32,8 @@ Some people will rip through this; for others, it will take quite a while. If yo
 ### Resources
 
 * [slides](https://drive.google.com/file/d/19fiFVXmrq-CmaGMN8IUVJlFs6yZBYieo/view?usp=sharing)
+* [class video]() 
 * [Python notebooks](https://github.com/momentum-team-1/examples/tree/master/python-notebooks)
 * [A Byte of Python](https://python.swaroopch.com/)
 * [Official Python docs](https://docs.python.org/3/)
+
