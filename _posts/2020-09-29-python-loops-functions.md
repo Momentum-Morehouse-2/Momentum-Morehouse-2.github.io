@@ -31,7 +31,7 @@ Some people will rip through this; for others, it will take quite a while. If yo
 
 ### Resources
 
-* [slides](https://drive.google.com/file/d/19fiFVXmrq-CmaGMN8IUVJlFs6yZBYieo/view?usp=sharing)
+* [number game code from class](https://repl.it/@RebeccaConley/ConfusedFractalCharacter#main.py)
 * [class video]() 
 * [Python notebooks](https://github.com/momentum-team-1/examples/tree/master/python-notebooks)
 * [A Byte of Python](https://python.swaroopch.com/)
