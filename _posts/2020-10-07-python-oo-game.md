@@ -14,8 +14,6 @@ tags: phase-2 python
 
 [OO Python - UNO](https://classroom.google.com/c/MTQzODg3MTY4MzI3/a/MTkwNDgyMzUxMzIw/details)
 
-
-
 ### Resources
 * [Live Code Video](https://us02web.zoom.us/rec/share/fo9ZXOE2ewLnmzj6fR-Ufeb0YWw59YcY1vipxNhtUy7ryEaAjWByAIDgMVPy9itS.gunuWfKQkYb1AHGi) 
 Access Passcode: 71e=6M6g
